@@ -1812,9 +1812,9 @@ height: auto;
   letter-spacing: 2px;
 }
 .featured-services .col-lg-3:nth-child(n) {
-  margin : 30px ;
+  margin : 45px ;
   
-}.
+}
 
 .featured-services .row {
   width: 100%;
